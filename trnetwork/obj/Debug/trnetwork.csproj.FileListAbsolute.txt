@@ -1,0 +1,10 @@
+c:\users\centro\source\repos\trnetwork\trnetwork\bin\Debug\trnetwork.exe.config
+c:\users\centro\source\repos\trnetwork\trnetwork\bin\Debug\trnetwork.exe
+c:\users\centro\source\repos\trnetwork\trnetwork\bin\Debug\trnetwork.pdb
+c:\users\centro\source\repos\trnetwork\trnetwork\obj\Debug\trnetwork.csprojAssemblyReference.cache
+c:\users\centro\source\repos\trnetwork\trnetwork\obj\Debug\trnetwork.Form1.resources
+c:\users\centro\source\repos\trnetwork\trnetwork\obj\Debug\trnetwork.Properties.Resources.resources
+c:\users\centro\source\repos\trnetwork\trnetwork\obj\Debug\trnetwork.csproj.GenerateResource.cache
+c:\users\centro\source\repos\trnetwork\trnetwork\obj\Debug\trnetwork.csproj.CoreCompileInputs.cache
+c:\users\centro\source\repos\trnetwork\trnetwork\obj\Debug\trnetwork.exe
+c:\users\centro\source\repos\trnetwork\trnetwork\obj\Debug\trnetwork.pdb
